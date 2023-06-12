@@ -1,31 +1,32 @@
-# Build Dashboards
+---
+description: >-
+  In the Adobe Journey Optimizer module we will be creating a customer journey
+  starting with a segment of profiles and following up with individual triggers
+  based on their behaviour.
+---
 
-{% hint style="info" %}
-**Good to know:** This tutorial was created to facilitate a particular workshop format. It uses specific systems and accounts to which you might not have access. Even without access we think you can still learn a lot by reading through this very detailed content.
-{% endhint %}
+# Overview
 
-In this module, you will get hands-on experience with the Customer Journey Analytics application service.
+## Learning objectives
 
-Customer Journey Analytics provides a toolkit to business intelligence and data science teams for stitching and analysis of cross-channel data (online and offline). The capabilities within Customer Journey Analytics deliver context and clarity to the complex multi-channel customer journeys. The provided context generates actionable insight into how to remove pain points from the customer conversion process and deliver positive experiences in the moments that matter most.
+* Learn how to use segments for marketing
+* Learn about setting up offers
+* Learn how to design email & push messages
+* Learn how to create a custom journey
 
-More info on Customer Journey Analytics can be found [here](https://spark.adobe.com/page/t62eiRu9l6iWJ/).
+## Adobe Journey Optimizer
 
-## Learning Objectives <a href="#learning-objectives" id="learning-objectives"></a>
+For customer centric brands, Adobe Journey Optimizer is an agile and scalable application built natively on the Adobe Experience Platform for orchestrating and delivering personalised, connected customer journeys across any app, device, screen, or channel.​
 
-* Become familiar with the Customer Journey Analytics UI
-* Bring Adobe Experience Platform data sets into Customer Journey Analytics
-* Understand the Person ID and data stitching in Customer Journey Analytics
-* Understand the concepts of a data connection and a data view
-* Use Analysis Workspace with Adobe Experience Platform data sets
+Journey Optimizer allows organisations to create, orchestrate and deliver both scheduled marketing programs and outreach (such as weekly promotions for a retail store) and tailored individual communications (like a push notification for an item that a loyalty app customer may have looked at that was previously out of stock) within the same application.&#x20;
 
-## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
+Adobe Journey Optimizer provides brands the flexibility to engage with customers across a broad range of use cases:
 
-* Some familiarity with Analysis Workspace is preferred, but not required
-* Access to Adobe Experience Platform: [https://experience.adobe.com/platform](https://experience.adobe.com/platform)
-* Access to Customer Journey Analytics Application Service
+* With 1:1, real-time messages that are initiated based on the customer’s behaviour, engagement, and interactions. For example, a customer enters a store location and receives a push message for a current in-store offer on a recently restocked product based on the customer’s past purchase.
+* Optimise journeys and deliver triggered messages based on business-related events. For example,  any offer or message contextually relevant to the customer’s journey, such as a weather-related travel impact or delayed shipping notification.
+* Orchestrate, optimise, and deliver audience-based email and mobile push campaigns. For example, email newsletters or daily offers update via mobile app push message.
+* Orchestrate and optimise audience-based programs or 1:1 journeys for delivery through external mar-tech and customer experience applications. For example, to deliver notifications, messages and offers through channels like SMS, direct mail, or kiosks.
+* Support for broad-based, high throughput burst messaging. For example, breaking news alerts or live event updates. &#x20;
 
-## Architecture Overview <a href="#architecture-overview" id="architecture-overview"></a>
+![](.gitbook/assets/aec-overview.JPG)
 
-Have a look at the below architecture, which highlights the components that will be discussed and used in this module.
-
-![CJA in the overall architecture](.gitbook/assets/architecturem13\_c1.png)
