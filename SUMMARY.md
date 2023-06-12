@@ -1,22 +1,16 @@
 # Table of contents
 
+* [Build Dashboards](README.md)
+
 ## Introduction
 
-* [Overview](README.md)
-* [Visit the WKND Fly Website](introduction/visit-the-wknd-fly-website.md)
+* [What is Customer Journey Analytics](introduction/what-is-customer-journey-analytics.md)
 
-## PROFILES
+## Workflow
 
-* [Visualise Your Profile](profiles/visualise-your-profile.md)
-
-## SEGMENTS
-
-* [Create a Segment](segments/create-a-segment.md)
-
-## In action
-
-* [Send your Segment to a Destination: Facebook](in-action/send-your-segment-to-a-destination-facebook.md)
-
-## SUMMARY
-
-* [Summary & Benefits](summary/summary-and-benefits.md)
+* [Schemas and Datasets](workflow/schemas-and-datasets.md)
+* [Create Connections](workflow/create-connections.md)
+* [Create Data Views](workflow/create-data-views.md)
+* [Prepare Workspaces and Reports](workflow/prepare-workspaces-and-reports.md)
+* [Journey Analysis Visualisations & Filters](workflow/journey-analysis-visualisations-and-filters.md)
+* [Sharing Filters from CJA to CDP](workflow/sharing-filters-from-cja-to-cdp.md)
