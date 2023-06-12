@@ -1,21 +1,23 @@
 ---
 description: >-
-  Welcome to the Experience Makers Bootcamp Hands-On-Lab for the Adobe
-  Experience Platform.
-cover: .gitbook/assets/header-airplane.png
-coverY: -16.98442714126808
+  In this module, we will do a deep dive into the Real-time Customer Profile and
+  Identity capabilities of Adobe Experience Platform.
 ---
 
-# Welcome
+# Overview
 
-{% content-ref url="http://localhost:5000/o/AdHcQAEqgUNGWDrsYHDV/s/HYm6uqUY4XCFtt21riQp/" %}
-[Lab 1: Real-time Customer Profile](http://localhost:5000/o/AdHcQAEqgUNGWDrsYHDV/s/HYm6uqUY4XCFtt21riQp/)
-{% endcontent-ref %}
+You will learn how profiles can be defined, the role of Identity Service and Experience Cloud ID, and how to define segment builder queries to define your own segments.
 
-{% content-ref url="http://localhost:5000/o/AdHcQAEqgUNGWDrsYHDV/s/hoAPhTS2ITcC45Egvelu/" %}
-[Lab 2: Journey Optimizer](http://localhost:5000/o/AdHcQAEqgUNGWDrsYHDV/s/hoAPhTS2ITcC45Egvelu/)
-{% endcontent-ref %}
+## Learning Objectives
 
-{% content-ref url="http://localhost:5000/o/AdHcQAEqgUNGWDrsYHDV/s/FqQmpaAXNFtVqjY3ApGQ/" %}
-[Lab 3: Customer Journey Analytics](http://localhost:5000/o/AdHcQAEqgUNGWDrsYHDV/s/FqQmpaAXNFtVqjY3ApGQ/)
-{% endcontent-ref %}
+* Learn how to visualise a customer’s Real-time Customer Profile through Adobe Experience Platform’s UI.
+* Learn how to create a segment using Adobe Experience Platform’s Segment Builder.
+* Learn about the impact of having access to a full customer profile, including real-time behaviour, from any environment.
+* Learn how to configure an advertising destination using the Adobe Experience Platform UI.
+* Learn how to connect a segment to a destination and activate it.&#x20;
+
+## Architecture Overview
+
+Have a look at the architecture below, which highlights the components that will be discussed and used in this module.
+
+![Adobe Experience Platform Architecture](<.gitbook/assets/AEP Architecture HOL-2.png>)

@@ -1,9 +1,22 @@
 # Table of contents
 
-* [Welcome](README.md)
+## Introduction
 
-## Prerequisites
+* [Overview](README.md)
+* [Visit the WKND Fly Website](introduction/visit-the-wknd-fly-website.md)
 
-* [Access Adobe Experience Platform](prerequisites/access-adobe-experience-platform.md)
-* [Website](prerequisites/website.md)
-* [Mobile App](prerequisites/mobile-app.md)
+## PROFILES
+
+* [Visualise Your Profile](profiles/visualise-your-profile.md)
+
+## SEGMENTS
+
+* [Create a Segment](segments/create-a-segment.md)
+
+## In action
+
+* [Send your Segment to a Destination: Facebook](in-action/send-your-segment-to-a-destination-facebook.md)
+
+## SUMMARY
+
+* [Summary & Benefits](summary/summary-and-benefits.md)
